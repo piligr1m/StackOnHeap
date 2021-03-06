@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  2.5
+//  StackOnHeap
 //
 //  Created by Stanislav Martynov on 01.01.2021.
 //
